@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EVA1_3_LAYOUTS</string>
+    <string name="apellido">Apellido</string>
+    <string name="pon_tu_apellido">Pon tu apellido</string>
+</resources>
